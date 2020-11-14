@@ -1,4 +1,4 @@
-# Genre Categorizer (Midterm Report)
+# Genre Categorizer (In-Progress)
 Project for "CS4641 - Machine learning" by Taylor Smith, Sichong Hua, Honghao Zhu, Ryan Choi, and Joshua Atler.
 
 ## Introduction
